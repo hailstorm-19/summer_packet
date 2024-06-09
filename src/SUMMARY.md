@@ -1,5 +1,5 @@
 # Summary
-
+[Welcome](./welcome.md)
 [Introduction](./introduction.md)
 
 # Workout Format
@@ -63,13 +63,12 @@
 - [Week 8 / Day 5](./8_5.md)
 
 # Field Hockey Drills
-- [Stick Handling]()
-- [Dynamic Receptions]()
-- [Elimination Skills]()
-- [Dribbling on the Move]()
-- [Shooting]()
-- [Rebounds]()
-- [Defensive Skills]()
-- [Goal-Keeping 1]()
-- [Goal-Keeping 2]()
-- [Goal-Keeping 3]()
+- [Stick Handling](./stick_handling.md)
+- [Dynamic Receptions](./dynamic_receptions.md)
+- [Elimination Skills](./eliminations.md)
+- [Shooting](./shooting.md)
+- [Rebounds](./rebounds.md)
+- [Defensive Skills](./defensive_skills.md)
+- [Goal-Keeping 1](./gk1.md)
+- [Goal-Keeping 2](./gk2.md)
+- [Goal-Keeping 3](./gk3.md)
