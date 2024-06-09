@@ -9,7 +9,7 @@ A vast amount of field hockey goalkeeping is dependent on kicking the ball. Belo
 **Hacky sack. This may seem silly but really does help improve your foot-eye coordination.**
 
 *If you have goalie equipment:*
-- **Kicking reps:**
+- **Kicking for power:**
   - Line up balls in front of the cage.
   - Rapid fire style, rip through reps down the line, kicking the balls into the goal with the same foot.
   - Focus on power. Use the inside of the foot, crossing over your opposite foot.

@@ -12,7 +12,7 @@ Below are various ideas for working on hand-eye coordination.
 **No Wall? Just use the ground:**
 - bounce a tennis ball or lacrosse ball, catching it with one hand
 - for an added challenge, add another ball. Have a tennis/lacrosse ball in each hand; alternate hands, or try both hands at the same time.
-- too easy? get bounce the ball harder
+- too easy? bounce the ball harder
 
 **Ball Drop:**
 - Find a friend! Have them hold a ball in each hand with their arms straight out in front of them.
