@@ -8,6 +8,8 @@ Set up 4 cones:
 - 1 cone 5yd to your right
 - 1 cone at your feet -- this is your center starting spot
 
+The cones should be in the shape of a 'T'.
+
 **10x superset:**
 - side shuffle to left cone & back to center starting spot
 - sprint to top cone, breaking down your feet at the cone and backpedal back to center starting spot

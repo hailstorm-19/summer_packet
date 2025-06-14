@@ -19,6 +19,7 @@ Travel backwards for a total of 25yds.
 
 **Have a partner? Work on stopping balls that are not receivable.**
 - Take turns hitting *hard* hits at one another.
-- Focus on solidly trapping the ball.
+- Focus on solidly trapping the ball. Soft hands; left (top) hand forward, angling your stick forward to trap the ball.
+- Focus on receiving the ball in *front* of your body, as opposed to the side.
 - Repeat with bouncy push passes.
 

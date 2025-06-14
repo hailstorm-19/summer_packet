@@ -2,10 +2,10 @@
 
 | Points | 300s | Cooper | Push-Ups | Plank | Farmer's Carry |
 | :----: | :----: | :----: | :----: | :----: | :----: |
-| **0** | 0x ≤ 70s | (0) >9:00, (0) <400m | <10 | <30s | <15yds |
-| **1** | 1x ≤ 70s | (.5) 8:15-9:00, (.5) 400-600m | 10-19 | :30 - 1:15 | 15-25yds |
-| **2** | 2x ≤ 70s | (1) 7:00-8:15, (1) 600-1000m | 20-29 | 1:15-2:00 | 25-50yds |
-| **3** | 3x ≤ 70s | (1.5) <7:00, (1.5) >1000m | ≥30 | ≥2:00 | ≥50yds |
+| **0** | 0x ≤ 70s | (0) >9:00, (0) <400m | <10 | <45s | <50yds |
+| **1** | 1x ≤ 70s | (.5) 8:15-9:00, (.5) 400-600m | 10-19 | :45 - 1:30 | 50-100yds |
+| **2** | 2x ≤ 70s | (1) 7:00-8:15, (1) 600-1000m | 20-29 | 1:30-2:00 | 100-150yds |
+| **3** | 3x ≤ 70s | (1.5) <7:00, (1.5) >1000m | ≥30 | ≥2:00 | ≥150yds |
 
 During tryouts, there will be 5 total fitness tests, each worth up to 3 points, for a maxiumum of 15 points. Fitness test scores alone will not be a determining factor for cuts during tryouts, but physical readiness will certainly impact team placements. It is suggested to attempt these fitness tests at the beginning of the summer to see where you stand and gauge where you need to focus your training. Shoot for a minimum score of 10 points. As you train throughout the summer, occasionally return to these tests to track how you are progressing.
 
@@ -22,8 +22,8 @@ This is a strength test.
 - There is no prescribed hand placement for this test, but feet must not be wider than hip-width. Your test attempt will terminate if you lift either hand or foot off the ground. The only allowed rest position is a "downward facing dog" position with the hips up in the air; hands and feet may not leave the ground even when you are in the rest position. Sagging the hips and arching the back (upward facing dog) is not an authorized rest position and will result in a terminated attempt. Elbows must bend to a 90-degree angle in order for a repetition to count. If your attempt is terminated for an unauthorized movement (invalid rest position, hands or feet lifted off the ground), you will still be credited your total amount of push-ups before erroring. In other words, if you complete 18 push-ups but then accidentally lift your hand up, resulting in a termination before the full minute is over, you will still get 1 point for your 18 push-ups.
 ### Plank
 This is a strength test. Core strength is very important for sports like field hockey where you use your core muscles to leverage the torque of your hip turn. Every time you hit the ball, your core is the medium that transfers power from your legs to your upper body.
-- With your feet no wider than hip-width apart and elbows on the ground, hold a plank for as long as you can. Sagging the hips or lifting the hips up high in the air will result in termination. Under 30s gets 0 points. :30-1:15 earns you 1 point. 1:15-2:00 is 2 points. Over 2:00 is 3 points.
+- With your feet no wider than hip-width apart and elbows on the ground, hold a plank for as long as you can. Sagging the hips or lifting the hips up high in the air will result in termination. Under 45s gets 0 points. :45-1:30 earns you 1 point. 1:30-2:00 is 2 points. Over 2:00 is 3 points.
 
 ### Farmer's Carry
 This is a strength test. In addition to testing full-body strength, this test specifically targets grip strength, which is crucial in field hockey for stick-handling and push power. 
-- Travel as far as you can while carrying a 25lb dumbbell in each hand. Most successful performances of this test are done at a brisk walk, keeping your shoulders back. When you cannot carry the weights any further, they must be placed down under control (not thrown). This test will be conducted on the field, using the lines as distance measurements. Carrying under 15yds is 0 points. 15-25yds is 1 point. 25-50 yards is 2 points. Over 50yds is 3 points. 
+- Travel as far as you can while carrying a 25lb dumbbell in each hand. Most successful performances of this test are done at a brisk walk, keeping your shoulders back. When you cannot carry the weights any further, they must be placed down under control (not thrown). This test will be conducted on the field, using the lines as distance measurements. Carrying under 50yds is 0 points. 50-100yds is 1 point. 100-150 yards is 2 points. Over 150yds is 3 points. 
