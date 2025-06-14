@@ -55,12 +55,6 @@
 - [Week 7 / Day 3](./7_3.md)
 - [Week 7 / Day 4](./7_4.md)
 - [Week 7 / Day 5](./7_5.md)
-# Week 8
-- [Week 8 / Day 1](./8_1.md)
-- [Week 8 / Day 2](./8_2.md)
-- [Week 8 / Day 3](./8_3.md)
-- [Week 8 / Day 4](./8_4.md)
-- [Week 8 / Day 5](./8_5.md)
 
 # Field Hockey Drills
 - [Stick Handling](./stick_handling.md)
